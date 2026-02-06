@@ -1,0 +1,53 @@
+# PLAYTEST NOTES TEMPLATE
+
+**Game Title:**
+**Platform:** (PC / Mobile / Console / Browser)
+**Tester:**
+**Date:**
+
+## 🎯Session Objective
+(what you aimed to test during this session)
+
+Example: Test core gameplay mechanics in Level 1, focusing on movements, jumping, and collision.
+
+---
+
+## 👀General Observations
+-
+-
+-
+(Write down anything notable, even if not a bug yet.)
+
+
+Examples:
+- Controls felt responsive.
+- UI buttons were slightly small on mobile.
+- Background music looped smoothly.
+
+---
+
+## 🐞Issues/Bugs Found
+
+1)
+ - Description:
+ - Steps(if known):
+ - Severity: (Critical / Major / Minor / Trivial)
+
+2)
+ - Description:
+ - Steps(if known):
+ - Severity: (Critical / Major / Minor / Trivial)
+
+3)
+ (Optional)
+
+## 💡Suggestions / Feedback
+
+-
+-
+-
+
+(what you think could improve the game)
+Example:
+- Increase button size on mobile.
+- Add visual indicator when the player is low on health.
